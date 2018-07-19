@@ -1,7 +1,7 @@
 Package: com.oskarw.goodbyecoverart
 Name: GoodbyeCoverArt
 Depends: mobilesubstrate
-Version: 1.0.0
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Removes the small cover art image on lockscreen
 Maintainer: Oskar Wirga <oskar@wirga.com>
