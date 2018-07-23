@@ -1,5 +1,6 @@
 ARCHS = arm64
 include $(THEOS)/makefiles/common.mk
+CLANG_CXX_LIBRARY=libc++
 
 TWEAK_NAME = GoodbyeCoverArt
 GoodbyeCoverArt_FILES = Tweak.xm
